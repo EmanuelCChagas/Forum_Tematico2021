@@ -1,0 +1,104 @@
+h1 {
+  color: white;
+  font-size: 85px;
+  padding-top: 300px;
+  font-family: 'Roboto-Extra-Bold', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  word-spacing: 10px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.background_img {
+  background: linear-gradient(0deg, #00000088 30%, #ffffff44 100%), url("../images/background_image.jpg");
+  background-color: #C68B59;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 900px;
+}
+
+body {
+  background-image: linear-gradient(180deg, #865439, #C68B59);
+}
+
+.h2_second_section {
+  padding-top: 140px;
+  padding-bottom: 100px;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+.rhino_img {
+  position: absolute;
+  left: 100px;
+  top: 1150px;
+}
+
+.p_second_section {
+  padding-left: 20px;
+  padding-bottom: 200px;
+  text-align: left;
+  color: white;
+  font-size: 19px;
+}
+
+.h2_third_section {
+  padding-top: 140px;
+  padding-bottom: 100px;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+.p_third_section_2 {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  text-align: right;
+  color: white;
+  font-size: 19px;
+}
+
+.hunt_img {
+  position: absolute;
+  left: 902px;
+  top: 1840px;
+  padding-top: 20px;
+}
+
+.div_third_section {
+  margin-left: 20px;
+  margin-right: 500px;
+  padding-bottom: 50px;
+}
+
+#extinto {
+  background-color: #865439;
+}
+
+#conhecer {
+  background-color: #402218;
+}
+
+.h4_conhecer {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-right: 200px;
+}
+
+.div_conhecer {
+  margin-left: 400px;
+  margin-right: 200px;
+  padding-bottom: 50px;
+}
